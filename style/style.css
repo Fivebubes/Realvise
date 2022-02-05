@@ -36,6 +36,10 @@ font-size: 14px;
 line-height: 24px;
 margin-bottom: 10px;
 }
+.container{
+    width: 1046px;
+    margin: 0 auto;
+}
 .header{
     background: url(../img/background.png);
     background-repeat: no-repeat;
@@ -90,8 +94,8 @@ margin-bottom: 10px;
     margin-right: 132px;
 }
 .menu-logo a{
-    front-weight: bold;
-    front-size: 24px;
+    font-weight: bold;
+    font-size: 24px;
     line-height: 133%;
     letter-spacing: 0.1px;
     color: #252B42;
@@ -111,7 +115,7 @@ margin-bottom: 10px;
     margin 0;
 }
 .nav-link {
-    front-weight: 600;
+    font-weight: 600;
     line-height: 171%;
     letter-spacing: 0.2px;
     color: #737373;
